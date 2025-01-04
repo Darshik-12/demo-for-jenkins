@@ -107,8 +107,8 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h5>You deployed application from jenkins</h5>
-    <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
-    <p>This environment is launched with Elastic Beanstalk Python Platform</p>
+    <p>you have successfully deployed python application using the jenkins</p>
+    <p>Now, you can go with the docker multi stage build and docker compose</p>
   </div>
   
   <div class="linksColumn"> 
