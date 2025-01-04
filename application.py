@@ -107,7 +107,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h5>You deployed application from jenkins</h5>
-    <p>you have successfully deployed python application using the jenkins</p>
+    <p>This is jenkins</p>
     <p>Now, you can go with the docker multi stage build and docker compose</p>
   </div>
   
